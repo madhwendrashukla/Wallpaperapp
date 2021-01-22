@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187663842179",
+    "project_id": "wallpaper-app-64b4c",
+    "storage_bucket": "wallpaper-app-64b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187663842179:android:773e56a5ebe914eb7a54b6",
+        "android_client_info": {
+          "package_name": "com.example.trendingwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187663842179-t4m2gsevjtp9ecbr8dofq9mhmu5rtaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjqilkmcY1HPZFqPlTY3j2LBgltNjQtC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187663842179-t4m2gsevjtp9ecbr8dofq9mhmu5rtaqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
